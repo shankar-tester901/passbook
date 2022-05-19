@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "passbook_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

@@ -1,0 +1,11 @@
+{
+	"name": "passbook_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "shankarr+1002@zohocorp.com",
+	"dependencies": {
+		"express": "^4.17.1",
+		"express-fileupload": "^1.2.1",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
